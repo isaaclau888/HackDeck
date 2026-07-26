@@ -44,4 +44,16 @@ Secondly, follow the wiring diagram and wire the parts. <p>
    * Pin 3 (IO19): Wire going to SDA on the INA219 module.
    * Pin 4 (IO20): Wire going to SCL on the INA219 module.
      
-Secondly, follow the wiring diagram and wire the parts. <p>
+Thirdly, place the screen inside the screen body and the parts inside the body. <p>
+<img width="699" height="512" alt="螢幕截圖 2026-07-27 上午5 54 52" src="https://github.com/user-attachments/assets/4f1a536f-47ce-439c-9379-36bd7eaee8a9" />
+
+Then, get the screws inside the 4 holes. <p>
+<img width="871" height="474" alt="螢幕截圖 2026-07-27 上午5 56 02" src="https://github.com/user-attachments/assets/89986b0e-4e6c-4744-beac-b2df20b907f5" />
+
+After that, get the back cover and put it at the back. And also stick the switch and USB-C port out.
+<img width="574" height="564" alt="螢幕截圖 2026-07-27 上午5 57 08" src="https://github.com/user-attachments/assets/fdd3aeba-189b-4b87-8e9d-fb6a8ebd3642" />
+
+Finally, you got a complete build.
+
+
+
