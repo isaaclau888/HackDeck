@@ -12,7 +12,7 @@ And last but not least, it lets you touch control custom web/GML tools or games 
 Please print all the 3D parts. <p>
 <img width="518" height="487" alt="螢幕截圖 2026-07-27 上午5 39 52" src="https://github.com/user-attachments/assets/433bc401-ab2b-4894-a5fd-8d10c0218d8c" />
 
-# How to assemble all the parts?
+## How to assemble all the parts?
 First, place the screen body down. <p>
 <img width="508" height="427" alt="螢幕截圖 2026-07-27 上午5 42 49" src="https://github.com/user-attachments/assets/bdcf44f2-88d0-42db-99fc-5e4f1efd9427" />
 
