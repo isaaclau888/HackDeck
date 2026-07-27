@@ -84,4 +84,8 @@ Finally, you got a complete build.
  6. You're All Set!
    Once uploading finishes, the board will automatically reboot directly into your desktop control surface!
 
+## Why did I make it?
+I decided to make it because I needed a pocket-sized workbench assistant to stop switching tabs and hunting down pinout sheets while prototyping. It puts a live I2C scanner, pinout guide, GitHub feed, and macro buttons right on my desk.
 
+## How I made it?
+I designed the custom case using Fusion 360, programmed the firmware in Arduino IDE, and assembled the hardware using the ESP32 screen, IP5306 power management chip, SS12D07 power switch, INA219 current sensor, and a LiPo battery.
