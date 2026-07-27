@@ -70,9 +70,13 @@ Finally, you got a complete build.
      * TAMC_GT911
      * ArduinoJson
  4. Configure Board Settings
-   * Go to Tools > Board > esp32 > ESP32S3 Dev Module.
-   * Set PSRAM to "OPI PSRAM" under Tools > PSRAM (required for the 800x480 RGB display).
-   * Connect your board via USB-C and select the correct port under Tools > Port.
+   - Go to Tools > Board > esp32 > ESP32S3 Dev Module.
+   - Configure the following under Tools:
+     * USB CDC On Boot: Enabled
+     * PSRAM: OPI PSRAM
+     * Flash Size: 16MB (128Mb)
+     * Partition Scheme: Huge APP (3MB No OTA) or 16M Flash
+   - Connect your board via USB-C and select the correct port under Tools > Port.
  5. Upload Firmware
    * Open firmware/HackDeck.ino in Arduino IDE.
    * Update WIFI_SSID, WIFI_PASS, and your webhook URLs at the top of the sketch.
