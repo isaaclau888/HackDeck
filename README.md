@@ -56,7 +56,6 @@ After that, get the back cover and put it at the back. And also stick the switch
 Finally, you got a complete build.
 
 ## How can you use it?
-How to Set Up and Flash
 1. Install Arduino IDE
    Download and install the latest version of Arduino IDE from the official Arduino website (https://www.arduino.cc/en/software).
 2. Add ESP32 Board Support
