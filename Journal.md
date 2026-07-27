@@ -28,4 +28,5 @@ What I did wrong was that when I was making the screws, I forgot to click the mo
 
 This is what I did today.
 
-Total Time: 
+Total Time: 6 hours and 10 mins
+https://lapse.hackclub.com/timelapse/nYyScDbP78Ud
