@@ -55,5 +55,30 @@ After that, get the back cover and put it at the back. And also stick the switch
 
 Finally, you got a complete build.
 
+## How can you use it?
+How to Set Up and Flash
+1. Install Arduino IDE
+   Download and install the latest version of Arduino IDE from the official Arduino website (https://www.arduino.cc/en/software).
+2. Add ESP32 Board Support
+   * Open Arduino IDE and go to File > Preferences.
+   * In the Additional Boards Manager URLs field, add:
+     https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+   * Go to Tools > Board > Boards Manager, search for "ESP32" (by Espressif Systems), and click Install.
+3. Install Required Libraries
+   * Open the Library Manager (click the book stack icon on the left sidebar).
+   * Search for and install the following libraries:
+     * LovyanGFX
+     * TAMC_GT911
+     * ArduinoJson
+ 4. Configure Board Settings
+   * Go to Tools > Board > esp32 > ESP32S3 Dev Module.
+   * Set PSRAM to "OPI PSRAM" under Tools > PSRAM (required for the 800x480 RGB display).
+   * Connect your board via USB-C and select the correct port under Tools > Port.
+ 5. Upload Firmware
+   * Open firmware/HackDeck.ino in Arduino IDE.
+   * Update WIFI_SSID, WIFI_PASS, and your webhook URLs at the top of the sketch.
+   * Click the Upload button.
+ 6. You're All Set!
+   Once uploading finishes, the board will automatically reboot directly into your desktop control surface!
 
 
