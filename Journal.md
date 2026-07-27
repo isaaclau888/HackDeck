@@ -23,7 +23,7 @@ For printing the parts, I imported the STEP files into the 3mf file for me to pr
 Last but not least, I dealt with README.md and Journal.md. This is the Journal.md that you are reading, and the README.md is on the front page of this repo. <p>
 <img width="906" height="771" alt="螢幕截圖 2026-07-27 上午11 22 26" src="https://github.com/user-attachments/assets/c6f2d29a-842d-472e-afb1-27f17fae3b0a" />
 
-What I did wrong was that when I was making the screws, I forgot to click the modelled button, and after I imported it to Bambu Studio, it didn't show the curves.
+What I did wrong was that when I was making the screws, I forgot to click the modelled button, and after I imported it to Bambu Studio, it didn't show the curves. <p>
 <img width="355" height="342" alt="螢幕截圖 2026-07-27 上午11 23 38" src="https://github.com/user-attachments/assets/0c1190c2-1c35-43ae-9ff9-a0f87f93df2d" />
 
 This is what I did today.
